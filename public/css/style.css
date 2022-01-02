@@ -17,7 +17,6 @@
 *  4.0 - Layouts
 *    4.1 - '' Main '' - Section
 *    4.2 - Navigation
-*    4.3 - Masonry
 *  5.0 - Components
 *    5.1 - Forms
 *    5.2 - Buttons
@@ -210,98 +209,31 @@ nav ul {
     transform: translateY(-5px);
 }
 
-
-
     /**
-     *      4.3 Masonry
+     *      4.3 Impressum
      */
-.masonry-wrapper {
-    padding: 1.5em;
+.impressum {
+    padding-top: 2em;
 }
-        
-.masonry-item {
-    position: relative;
-    padding: .5em;
+
+.impressum > * {
+    margin-bottom: 1.6em;
 }
-    
-.masonry-item img {
-    width: 100%;
-    display: block;
-    /* vertical-align: middle */
+
+.link-home {
+   color: black;
+   border-style: solid;
+   border-width: 3px 3px 3px 0;
+   padding: .6em .4em .6em 0;
 }
-    
-.masonry-item figure {
-    background: var(--clr-link-primary);
-}
-    
-.masonry-item figure img {
-    opacity: 1;
-    -webkit-transition: .3s ease-in-out;
-    transition: .3s ease-in-out;
-}
-    
-.masonry-item figure:hover img {
-    opacity: .5;
-}
-    
-.masonry-item figure:hover .masonry-item-details {
-    top: 50%;
-    left: 50%;
-    opacity: 1;
-}
-    
-.masonry-item-details {
-    color: var(--clr-link-secondary);
-    position: absolute;
-    text-align: center;
-    padding: 0 1em;
-    width: 100%;
-    top: 20%;
-    left: 50%;
-    opacity: 0;
-    transform: translate(-50%, -50%);
-    transition: all 0.3s ease-in-out 0s;
+
+.link-home i {
+    background-color: #000; 
+    color: #fff; 
+    padding: .6em .8em;
 }
 
 
-
-    /**
-     *      4.4 "Admin" Utility bar
-     */
-.utility-bar {
-    position: fixed;
-    bottom: 0;
-    padding: 2em 4em;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row; 
-    color: #fff !important;
-    width: 100vw;
-    background-color: #342D33;
-}
-
-.utility-bar-item {
-    position: relative;
-    color: #fff;
-    flex-grow: 3;
-}
-
-.utility-bar-item:first-child {
-    flex-grow: 1;
-}
-
-.utility-bar-item a {
-    color: #fff;
-    border: 0;
-    font-weight: bolder;
-    transition: all .2s ease-in-out;
-}
-
-.utility-bar-item a:hover {
-    transform: scale(1.2);
-}
-
-    
 
 /*  ================================
         5.0 Components

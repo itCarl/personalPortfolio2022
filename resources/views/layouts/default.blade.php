@@ -38,12 +38,14 @@
     @yield('content')
 
     @unless(request()->is('/'))
+    {{--
     <div id="back">
         <a href="{{ url()->previous() }}" class="btn btn-primary"> 
             <i class="fas fa-long-arrow-alt-left"></i>
             Back
         </a>
     </div>
+    --}}
     @endunless
 
     {{-- Load all Javascript files --}}
