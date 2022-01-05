@@ -45,11 +45,16 @@
                 <a href="https://www.thingiverse.com/" target="_blank">
                     <img src="images/thingiverse_icon.svg" width="26px" alt="">
                 </a>                
+                <!--
                 <a href="https://thangs.com/it.Carl" target="_blank">
                     <img src="images/thangs_logo.svg" width="26px" alt="">
                 </a>
+                -->
                 <a href="https://codepen.io/itcarl" target="_blank">
                     <i class="fab fa-codepen"></i>
+                </a>
+                <a href="https://www.xing.com/profile/Maximilian_Mewes2/cv" target="_blank">
+                    <i class="fab fa-xing"></i>
                 </a>
                 <a href="mailto:contact@maximilian-mewes.de" target="_blank">
                     <i class="far fa-envelope"></i>
