@@ -26,6 +26,16 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;900&display=swap">
     <link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ETBEHTGT0J"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ETBEHTGT0J');
+    </script>
 </head>
 <body>
 
