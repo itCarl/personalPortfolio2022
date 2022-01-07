@@ -1,6 +1,6 @@
 @extends('layouts/default')
 
-@section('title', 'Home')
+@section('title', 'Impressum')
 
 @section('content')
     <div class="wrapper">

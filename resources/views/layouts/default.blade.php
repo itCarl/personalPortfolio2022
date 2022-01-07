@@ -58,6 +58,11 @@
     --}}
     @endunless
 
+    <footer>
+        <a href="{{ url('/impressum') }}"> Impressum </a>
+        <a href="{{ url('/privacy') }}"> Datenschutz </a>
+    </footer>
+
     {{-- Load all Javascript files --}}
     @include('includes.scripts')
 </body>

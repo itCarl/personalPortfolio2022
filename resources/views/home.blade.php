@@ -32,7 +32,7 @@
                         <a href="#" class="link-disabled"> Project Ideas </a>
                     </li>
                     <li class="nav-item">
-                        <a href="{{ url('/impressum') }}"> Impressum </a>
+                        <a href="#" class="link-disabled"> Future Plans </a>
                     </li>
                 </ul>
             </nav>

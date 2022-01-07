@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/', 'home')->name('index');
-
-Route::view('/impressum', 'impressum')->name('index');
+Route::view('/impressum', 'impressum')->name('impressum');
+Route::view('/privacy', 'privacy')->name('privacy');
