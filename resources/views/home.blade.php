@@ -72,7 +72,7 @@
                 </div>
             </span>
 
-            <div class="project-item" style="grid-column: span 2;" >
+            <div class="project-item" style="grid-column: span 2;">
                 <img src="images/projects/lonleytunes.png" alt="">
             </div>
 
@@ -200,17 +200,21 @@
                 </div>
             </span>
 
-            <div class="project-item">
-                <img src="images/projects/mc_dia_pickaxe_animation.gif" alt="">
-            </div>
+            <span class="tool" data-tip="3DP - Minecraft Pickaxe">
+                <div class="project-item">
+                    <img src="images/projects/mc_dia_pickaxe_animation.gif" alt="">
+                </div>
+            </span>
+
+            <span class="tool" data-tip="Wled Usermod 'Battery'" style="grid-column: span 2;">
+                <div class="project-item" >
+                    <a href="https://github.com/itCarl/WLED/tree/feature-usermod-battery/usermods/Battery" target="_blank" rel="noopener noreferrer">
+                        <img src="https://raw.githubusercontent.com/itCarl/WLED/feature-usermod-battery/usermods/Battery/assets/battery_usermod_logo.png" alt="">
+                    </a>
+                </div>
+            </span>
 
             <!-- Dummy images -->
-            <div class="project-item">
-                <img src="https://dummyimage.com/600x4:3/3c3c3c/ccc.png&text=empty+project" alt="">
-            </div>
-            <div class="project-item">
-                <img src="https://dummyimage.com/600x4:3/ccc/000.png&text=empty+project" alt="">
-            </div>
             <div class="project-item">
                 <img src="https://dummyimage.com/600x4:3/3c3c3c/ccc.png&text=empty+project" alt="">
             </div>

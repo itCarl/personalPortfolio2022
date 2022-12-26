@@ -232,6 +232,8 @@ nav ul {
     /*grid-template-columns: repeat(11, minmax(150px, 1fr));*/
     grid-template-columns: repeat(11, 1fr);
     height: 100%;
+    align-items: center;
+    justify-items: center;
 }
 
 .project-item {
