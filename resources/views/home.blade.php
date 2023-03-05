@@ -158,7 +158,7 @@
             
             <span class="tool" data-tip="WLED Usermod">
                 <div class="project-item">
-                    <a href="https://github.com/Aircoookie/WLED/tree/master/usermods/battery_status_basic" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/Aircoookie/WLED/blob/main/usermods/Battery" target="_blank" rel="noopener noreferrer">
                         <img src="images/projects/wled_battery_usermod.png" alt="">
                     </a>
                 </div>
