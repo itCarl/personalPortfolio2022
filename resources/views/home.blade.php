@@ -212,6 +212,18 @@
                         <img src="https://raw.githubusercontent.com/Aircoookie/WLED/main/usermods/Battery/assets/battery_usermod_logo.png" alt="">
                     </a>
                 </div>
+            </span>            
+            
+            <span class="tool" data-tip="3DP - Fridge can organizer">
+                <div class="project-item">
+                    <img src="images/projects/title_image_can.PNG" alt="">
+                </div>
+            </span>            
+            
+            <span class="tool" data-tip="3DP - Lithophane stand">
+                <div class="project-item">
+                    <img src="images/projects/title_image_lithophane.PNG" alt="">
+                </div>
             </span>
 
             <!-- Dummy images -->
@@ -220,13 +232,7 @@
             </div>
             <div class="project-item">
                 <img src="https://dummyimage.com/600x4:3/ccc/000.png&text=empty+project" alt="">
-            </div>
-            <div class="project-item">
-                <img src="https://dummyimage.com/600x4:3/3c3c3c/ccc.png&text=empty+project" alt="">
-            </div>
-            <div class="project-item">
-                <img src="https://dummyimage.com/600x4:3/ccc/000.png&text=empty+project" alt="">
-            </div>          
+            </div>       
         </div>
     </section>
 @endsection
