@@ -216,7 +216,7 @@
             
             <span class="tool" data-tip="3DP - Fridge can organizer">
                 <div class="project-item">
-                    <img src="images/projects/title_image_can.PNG" alt="">
+                    <img src="images/projects/title_image_can1.png" alt="">
                 </div>
             </span>            
             
