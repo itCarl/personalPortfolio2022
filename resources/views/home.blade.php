@@ -208,8 +208,8 @@
 
             <span class="tool" data-tip="Wled Usermod 'Battery'" style="grid-column: span 2;">
                 <div class="project-item" >
-                    <a href="https://github.com/itCarl/WLED/tree/feature-usermod-battery/usermods/Battery" target="_blank" rel="noopener noreferrer">
-                        <img src="https://raw.githubusercontent.com/itCarl/WLED/feature-usermod-battery/usermods/Battery/assets/battery_usermod_logo.png" alt="">
+                    <a href=https://github.com/Aircoookie/WLED/blob/main/usermods/Battery" target="_blank" rel="noopener noreferrer">
+                        <img src="https://raw.githubusercontent.com/Aircoookie/WLED/blob/main/usermods/Battery/assets/battery_usermod_logo.png" alt="">
                     </a>
                 </div>
             </span>
